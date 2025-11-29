@@ -1,0 +1,3 @@
+def assets(
+):
+    return None
